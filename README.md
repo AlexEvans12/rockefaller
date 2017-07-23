@@ -4,6 +4,7 @@ This is a web-based singleplayer/multiplayer video game, built using Node.js and
 
 http://rockefaller.herokuapp.com/
 
+Note*** This is a prototype - please wait as the game loads in the link above, the screen may appear black for 30 seconds
 
 # Instructions For Running Locally
 
