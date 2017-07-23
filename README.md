@@ -6,7 +6,7 @@ This is a web-based singleplayer/multiplayer video game, built using Node.js and
 http://rockefaller.herokuapp.com/
 
 
-
+# Instructions For Running Locally
 ##Functional Prototype
 
 ###**Instructions:**
