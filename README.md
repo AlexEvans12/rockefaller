@@ -1,5 +1,4 @@
-# tip-calc
-Rockefaller : Video game
+# Rockefaller : Video game
 
 This is a web-based singleplayer/multiplayer video game, built using Node.js and websockets.  The prototype is currently hosted on Heroku at the following URL:
 
